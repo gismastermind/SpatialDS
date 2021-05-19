@@ -1,4 +1,8 @@
 ### Hi there 👋
+## Chandra Shekhar Singh
+
+I am an Geospatial Professional working on WebGIS & Geospatial Data Science projects as side husstle.
+I am into Telecommunitcations domain.
 
 
 - 🔭 I’m currently working on ...
