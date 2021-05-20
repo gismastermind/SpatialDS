@@ -30,6 +30,7 @@ I am an continious Learner & content moderator in the github. My research intere
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
+<!--
 - [GEE and geemap workshop at GeoPython Conference](https://blog.gishub.org/gee-and-geemap-workshop-at-geopython-conference)
 - [How to publish a Python package on conda-forge](https://blog.gishub.org/how-to-publish-a-python-package-on-conda-forge)
 - [The MapScaping Podcast - Introducing Google Earth Engine‬](https://blog.gishub.org/the-mapscaping-podcast-introducing-google-earth-engine)
@@ -39,8 +40,8 @@ I am an continious Learner & content moderator in the github. My research intere
 -->
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=giswqs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
+![github stats](https://github-readme-stats.vercel.app/api?username=spatialds&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spatialds&langs_count=3&hide=javascript,go,html,css,tex)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
 
