@@ -4,7 +4,7 @@
 I am an Geospatial Professional working on WebGIS & Geospatial Data Science projects as side husstle.
 I am into Telecommunitcations domain.
 [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/SpatialDS?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/spatialdsc)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fspatialdsc)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com)
 [![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/SpatialDS)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCxh6iKs_oV0wKafdKue1UEA)
