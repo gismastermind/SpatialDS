@@ -5,11 +5,11 @@ I am an Geospatial Professional working on WebGIS & Geospatial Data Science proj
 I am into Telecommunitcations domain.
 [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/SpatialDS?tab=followers)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fspatialdsc)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com)
-[![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/SpatialDS)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCxh6iKs_oV0wKafdKue1UEA)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/SpatialDS)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/spatialds)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spatialds.spatialds)
+<!-- [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/spatialds)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spatialds.spatialds)
 
